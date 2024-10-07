@@ -20,8 +20,7 @@ function About() {
         <span className="dark:text-white  text-primary font-medium">
           Philippines
         </span>
-        , working remotely in projects involving TypeScript, Next.js, React, C#,
-        and Python. With over {getYearsOfExperience(Config.yearStart)} years of experience, I've worked closely with
+        , working remotely in projects involving Next.js, React, C#, Python, Expo and React Native, with over {getYearsOfExperience(Config.yearStart)} years of experience, I've worked closely with
         companies locally and remotely with different teams worldwide.
       </p>
     </section>
